@@ -1,4 +1,4 @@
-package CodeWars;
+package CodeWarsFirstAttempt;
 
 public class FindNeedle {
     public static String findNeedle(Object[] haystack) {
